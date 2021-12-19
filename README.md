@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas santos  
-- 👀 I’m interested in ...
+- 👀 I’m interested in  novas tecnologias 
 - 🌱  Cursando Análise e desenvolvimento de Sistemas 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contato : lsantana1234@hotmail.com 
