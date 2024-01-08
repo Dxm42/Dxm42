@@ -2,7 +2,7 @@
 
 #### About
 
-I'm a Web Developer, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+I'm a Web Developer, I'm studying web development 
 
 
 #### Current stack
