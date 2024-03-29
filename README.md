@@ -5,12 +5,14 @@
   I am always seeking to improve my knowledge in technology. My passion for cybersecurity drives me to explore new techniques and solutions, constantly seeking to expand my expertise in this exciting field of technology.
   </p>
   <br>
-  <br>
-  <br>
+  <div align="center">
+    <img src="_a4d71250-bfc6-48e0-8a5f-90ed9fee8adc-removebg-preview.png"/>    
+  </div>
 <div align="center"> 
   <a href="https://github.com/Dxm42">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dxm42&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxm42&layout=compact&langs_count=7&theme=vue"/>
+  <br>
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=whit"/>
